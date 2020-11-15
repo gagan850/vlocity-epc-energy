@@ -1,0 +1,19 @@
+{
+    "Action": "Remove",
+    "ChildProduct": [
+        {
+            "Id": "01t3H000000dz7IQAQ",
+            "Name": "Electricity Standing Charges (Collective Online Fixed)"
+        },
+        {
+            "Id": "01t3H000000dz7jQAA",
+            "Name": "Electricity Unit Rate A (Collective Online Fixed)"
+        },
+        {
+            "Id": "01t3H000000dz82QAA",
+            "Name": "Electricity Unit Rate B (Collective Online Fixed)"
+        }
+    ],
+    "ParentProductId": "01t3H000000dzEJQAY",
+    "ParentProductName": "Collective Online Fixed Electricity"
+}
