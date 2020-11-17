@@ -1,0 +1,17 @@
+{
+    "CatalogId": "a0y3H0000000VJhQAM",
+    "Products": [
+        {
+            "Id": "01t3H000000eM36QAE",
+            "Name": "Direct Online Only Fixed v.1"
+        },
+        {
+            "Id": "01t3H000000eM2rQAE",
+            "Name": "Direct Online Only Fixed Electricity v.1"
+        },
+        {
+            "Id": "01t3H000000eM2wQAE",
+            "Name": "Direct Online Only Fixed Gas v.1"
+        }
+    ]
+}

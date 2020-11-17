@@ -1,0 +1,73 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "%vlocity_namespace%__CatalogProductRelationship__c",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "%vlocity_namespace%__CatalogId__c",
+        "%vlocity_namespace%__GlobalKey__c": "7bf14a7a-7144-79af-4d10-da780d60dad0",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "CatalogId",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "EPC_TST-AddProductsInCatalogCustom6999",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "EPC_TST-AddProductsInCatalog",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DefaultValue__c": "true",
+        "%vlocity_namespace%__DomainObjectAPIName__c": "%vlocity_namespace%__CatalogProductRelationship__c",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "%vlocity_namespace%__IsActive__c",
+        "%vlocity_namespace%__GlobalKey__c": "d40186e9-c081-a4fe-193d-2121e9c13531",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "EPC_TST-AddProductsInCatalogCustom411",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "EPC_TST-AddProductsInCatalog",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "%vlocity_namespace%__CatalogProductRelationship__c",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "%vlocity_namespace%__Product2Id__c",
+        "%vlocity_namespace%__GlobalKey__c": "f2ed2afa-3184-e7c3-3bbf-603d0f33a428",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Products:Id",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "EPC_TST-AddProductsInCatalogCustom9873",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "EPC_TST-AddProductsInCatalog",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__ConfigurationValue__c": "FAKEMAPPING",
+        "%vlocity_namespace%__DomainObjectAPIName__c": "%vlocity_namespace%__CatalogProductRelationship__c",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Id",
+        "%vlocity_namespace%__FilterOperator__c": "=",
+        "%vlocity_namespace%__GlobalKey__c": "ee6e9d66-776c-3162-da45-99f8b2dc3032",
+        "%vlocity_namespace%__IsDisabled__c": true,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "EPC_TST-AddProductsInCatalogCustom9705",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "EPC_TST-AddProductsInCatalog",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "%vlocity_namespace%__CatalogProductRelationship__c",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Name",
+        "%vlocity_namespace%__GlobalKey__c": "430fab82-f266-3e9e-26f4-a143d08999e4",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Products:Name",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "EPC_TST-AddProductsInCatalogCustom9577",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "EPC_TST-AddProductsInCatalog",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]
